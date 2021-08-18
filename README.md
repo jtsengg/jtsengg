@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jtsengg, my Chinese name is 曾其晧 (Zeng Qihao). 
+- 👋 Hi, I’m @jtsengg, my Chinese name is 曾其皓 (Zeng Qihao). 
 - 👀 I’m interested in machine learning and artificial intelligence.
 - 🌱 I’m currently learning how to improve my skills everyday. 
 - 💞️ I’m looking to collaborate on new challenges. 
